@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "job-manage-app",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "src": "logo192.png",
-      "type": "image/png",
+      "type": "",
       "sizes": "192x192"
     },
     {
